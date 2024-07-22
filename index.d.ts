@@ -100,6 +100,9 @@ export interface DatePickerProps extends ViewProps {
 
   /** Color of the android modal buttons */
   buttonColor?: string
+
+  /** Color of the text */
+  textColor?: string
 }
 
 export default class DatePicker extends Component<DatePickerProps> {}
