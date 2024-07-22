@@ -20,6 +20,7 @@
  * theme?: string | undefined,
  * onConfirm?:PlatformPickerProps['onConfirm'],
  * onCancel?:PlatformPickerProps['onCancel'],
+ * textColor?: string | undefined,
  * }} NativeProps
  *
  * @typedef {NativeProps & {
